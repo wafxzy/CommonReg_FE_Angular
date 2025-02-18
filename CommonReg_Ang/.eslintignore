@@ -1,0 +1,25 @@
+# Зависимости
+node_modules/
+dist/
+coverage/
+
+# Конфигурационные файлы
+.angular/
+.vscode/
+.git/
+
+# Тестовые файлы
+*.spec.ts
+*.test.ts
+
+# Сборка и кэш
+.eslintcache
+*.js.map
+
+# Другие файлы
+README.md
+*.md
+*.json
+*.html.ts
+*.css
+*.scss
